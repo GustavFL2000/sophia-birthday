@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./home.css";
+import "./Home.css";
 
 export default function Home() {
   const [showGift, setShowGift] = useState(false);
